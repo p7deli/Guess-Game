@@ -87,7 +87,11 @@ guess-number-tkinter/
 
 ## 📸 Screenshots
 
-> You can add your own screenshot here by replacing this section.
+> 
+<img width="1366" height="768" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/41348c3c-ffdb-459a-b188-653d464e7249" />
+<img width="1366" height="768" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/fab304e0-872b-4ff7-b32d-9002038d8723" />
+<img width="1366" height="768" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/093d195a-24f9-42fc-b89b-c023f1190fe2" />
+
 
 ---
 
@@ -105,7 +109,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🧑‍💻 Author
 
-- [Your Name or GitHub Username](https://github.com/yourusername)
+- [p7deli](https://github.com/yourusername)
 
 ---
 
